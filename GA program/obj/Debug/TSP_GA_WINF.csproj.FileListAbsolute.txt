@@ -1,0 +1,40 @@
+C:\Users\Pero\source\repos\TSP_GA_WINF\bin\Debug\TSP_GA_WINF.exe.config
+C:\Users\Pero\source\repos\TSP_GA_WINF\bin\Debug\TSP_GA_WINF.exe
+C:\Users\Pero\source\repos\TSP_GA_WINF\bin\Debug\TSP_GA_WINF.pdb
+C:\Users\Pero\source\repos\TSP_GA_WINF\obj\Debug\TSP_GA_WINF.csprojAssemblyReference.cache
+C:\Users\Pero\source\repos\TSP_GA_WINF\obj\Debug\TSP_GA_WINF.Form1.resources
+C:\Users\Pero\source\repos\TSP_GA_WINF\obj\Debug\TSP_GA_WINF.Properties.Resources.resources
+C:\Users\Pero\source\repos\TSP_GA_WINF\obj\Debug\TSP_GA_WINF.csproj.GenerateResource.cache
+C:\Users\Pero\source\repos\TSP_GA_WINF\obj\Debug\TSP_GA_WINF.csproj.CoreCompileInputs.cache
+C:\Users\Pero\source\repos\TSP_GA_WINF\obj\Debug\TSP_GA_WINF.exe
+C:\Users\Pero\source\repos\TSP_GA_WINF\obj\Debug\TSP_GA_WINF.pdb
+C:\Users\Pero\Desktop\TSP_GA_WINF Finalno\bin\Debug\TSP_GA_WINF.exe.config
+C:\Users\Pero\Desktop\TSP_GA_WINF Finalno\bin\Debug\TSP_GA_WINF.exe
+C:\Users\Pero\Desktop\TSP_GA_WINF Finalno\bin\Debug\TSP_GA_WINF.pdb
+C:\Users\Pero\Desktop\TSP_GA_WINF Finalno\obj\Debug\TSP_GA_WINF.csprojAssemblyReference.cache
+C:\Users\Pero\Desktop\TSP_GA_WINF Finalno\obj\Debug\TSP_GA_WINF.Form1.resources
+C:\Users\Pero\Desktop\TSP_GA_WINF Finalno\obj\Debug\TSP_GA_WINF.Properties.Resources.resources
+C:\Users\Pero\Desktop\TSP_GA_WINF Finalno\obj\Debug\TSP_GA_WINF.csproj.GenerateResource.cache
+C:\Users\Pero\Desktop\TSP_GA_WINF Finalno\obj\Debug\TSP_GA_WINF.csproj.CoreCompileInputs.cache
+C:\Users\Pero\Desktop\TSP_GA_WINF Finalno\obj\Debug\TSP_GA_WINF.exe
+C:\Users\Pero\Desktop\TSP_GA_WINF Finalno\obj\Debug\TSP_GA_WINF.pdb
+C:\Users\Pero\Desktop\TSP_GA_WINF netkomp\bin\Debug\TSP_GA_WINF.exe.config
+C:\Users\Pero\Desktop\TSP_GA_WINF netkomp\bin\Debug\TSP_GA_WINF.exe
+C:\Users\Pero\Desktop\TSP_GA_WINF netkomp\bin\Debug\TSP_GA_WINF.pdb
+C:\Users\Pero\Desktop\TSP_GA_WINF netkomp\obj\Debug\TSP_GA_WINF.csprojAssemblyReference.cache
+C:\Users\Pero\Desktop\TSP_GA_WINF netkomp\obj\Debug\TSP_GA_WINF.Form1.resources
+C:\Users\Pero\Desktop\TSP_GA_WINF netkomp\obj\Debug\TSP_GA_WINF.Properties.Resources.resources
+C:\Users\Pero\Desktop\TSP_GA_WINF netkomp\obj\Debug\TSP_GA_WINF.csproj.GenerateResource.cache
+C:\Users\Pero\Desktop\TSP_GA_WINF netkomp\obj\Debug\TSP_GA_WINF.csproj.CoreCompileInputs.cache
+C:\Users\Pero\Desktop\TSP_GA_WINF netkomp\obj\Debug\TSP_GA_WINF.exe
+C:\Users\Pero\Desktop\TSP_GA_WINF netkomp\obj\Debug\TSP_GA_WINF.pdb
+D:\GA progr finale\bin\Debug\TSP_GA_WINF.exe.config
+D:\GA progr finale\bin\Debug\TSP_GA_WINF.exe
+D:\GA progr finale\bin\Debug\TSP_GA_WINF.pdb
+D:\GA progr finale\obj\Debug\TSP_GA_WINF.csprojAssemblyReference.cache
+D:\GA progr finale\obj\Debug\TSP_GA_WINF.Form1.resources
+D:\GA progr finale\obj\Debug\TSP_GA_WINF.Properties.Resources.resources
+D:\GA progr finale\obj\Debug\TSP_GA_WINF.csproj.GenerateResource.cache
+D:\GA progr finale\obj\Debug\TSP_GA_WINF.csproj.CoreCompileInputs.cache
+D:\GA progr finale\obj\Debug\TSP_GA_WINF.exe
+D:\GA progr finale\obj\Debug\TSP_GA_WINF.pdb
